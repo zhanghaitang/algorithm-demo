@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f2b583e0-a007-4bf5-b322-94db23655155" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1i8gUEvv1IivetLlCG8L3SZqpSr" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/com/lesson/trie" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.lesson.binarysearch" />
+      <recent name="com.lesson.quickSort" />
+      <recent name="com.lesson.mergeSort" />
+      <recent name="com.lesson.linkedlist" />
+      <recent name="com.lesson.queue" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/com/lesson/trie" />
+      <recent name="$PROJECT_DIR$/src/com/lesson/binarysearchtree" />
+      <recent name="$PROJECT_DIR$/src/com/lesson/priorityqueue" />
+      <recent name="$PROJECT_DIR$/src/com/lesson/mergeSort" />
+      <recent name="$PROJECT_DIR$/src/com/lesson/stack" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Main (1)">
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lesson.binarysearchtree.Main" />
+      <module name="algorithm-demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lesson.binarysearchtree.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lesson.priorityqueue.Main" />
+      <module name="algorithm-demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lesson.priorityqueue.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MakeGood" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.leetcode.MakeGood" />
+      <module name="algorithm-demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.leetcode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="QuickSortOptimized2Ways" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lesson.quickSort.QuickSortOptimized2Ways" />
+      <module name="algorithm-demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lesson.quickSort.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RobinKarp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lesson.robinkarp.RobinKarp" />
+      <module name="algorithm-demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lesson.robinkarp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main (1)" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.RobinKarp" />
+        <item itemvalue="Application.MakeGood" />
+        <item itemvalue="Application.QuickSortOptimized2Ways" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f2b583e0-a007-4bf5-b322-94db23655155" name="Default Changelist" comment="" />
+      <created>1601294646680</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1601294646680</updated>
+      <workItem from="1601294651490" duration="249000" />
+      <workItem from="1602675617485" duration="282000" />
+      <workItem from="1602754067554" duration="1411000" />
+      <workItem from="1603096979061" duration="2866000" />
+      <workItem from="1603160075415" duration="1717000" />
+      <workItem from="1603367410775" duration="1705000" />
+      <workItem from="1603768945814" duration="11348000" />
+      <workItem from="1603849269854" duration="7759000" />
+      <workItem from="1604046901529" duration="1979000" />
+      <workItem from="1604291166701" duration="5884000" />
+      <workItem from="1604317708894" duration="845000" />
+      <workItem from="1604367415853" duration="478000" />
+      <workItem from="1604373585359" duration="10136000" />
+      <workItem from="1604541838546" duration="1180000" />
+      <workItem from="1604923093323" duration="1430000" />
+      <workItem from="1605527260795" duration="1937000" />
+      <workItem from="1605580127462" duration="1960000" />
+      <workItem from="1605859211244" duration="868000" />
+      <workItem from="1606132455902" duration="1082000" />
+      <workItem from="1606301935687" duration="4583000" />
+      <workItem from="1606376758012" duration="7095000" />
+      <workItem from="1606721862499" duration="1814000" />
+      <workItem from="1607493029160" duration="430000" />
+      <workItem from="1609760204283" duration="1403000" />
+      <workItem from="1616057340583" duration="420000" />
+      <workItem from="1623066272470" duration="239000" />
+      <workItem from="1626346607916" duration="961000" />
+      <workItem from="1630921107501" duration="5000" />
+      <workItem from="1632653240072" duration="2934000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1750" height="239" key="GridCell.Tab.0.bottom" timestamp="1632655753402">
+      <screen x="0" y="23" width="1792" height="1017" />
+    </state>
+    <state width="1750" height="239" key="GridCell.Tab.0.bottom/0.23.1792.1017@0.23.1792.1017" timestamp="1632655753402" />
+    <state width="1750" height="239" key="GridCell.Tab.0.center" timestamp="1632655753401">
+      <screen x="0" y="23" width="1792" height="1017" />
+    </state>
+    <state width="1750" height="239" key="GridCell.Tab.0.center/0.23.1792.1017@0.23.1792.1017" timestamp="1632655753401" />
+    <state width="1750" height="239" key="GridCell.Tab.0.left" timestamp="1632655753400">
+      <screen x="0" y="23" width="1792" height="1017" />
+    </state>
+    <state width="1750" height="239" key="GridCell.Tab.0.left/0.23.1792.1017@0.23.1792.1017" timestamp="1632655753400" />
+    <state width="1750" height="239" key="GridCell.Tab.0.right" timestamp="1632655753401">
+      <screen x="0" y="23" width="1792" height="1017" />
+    </state>
+    <state width="1750" height="239" key="GridCell.Tab.0.right/0.23.1792.1017@0.23.1792.1017" timestamp="1632655753401" />
+    <state x="509" y="162" width="1592" height="809" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1632655505286">
+      <screen x="0" y="23" width="1792" height="1017" />
+    </state>
+    <state x="509" y="162" width="1592" height="809" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog/0.23.1792.1017@0.23.1792.1017" timestamp="1632655505286" />
+    <state x="718" y="428" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1632656536244">
+      <screen x="0" y="23" width="1792" height="1017" />
+    </state>
+    <state x="718" y="428" key="git4idea.remote.GitConfigureRemotesDialog/0.23.1792.1017@0.23.1792.1017" timestamp="1632656536244" />
+  </component>
+</project>
